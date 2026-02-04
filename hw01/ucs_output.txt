@@ -1,0 +1,4 @@
+Mejor ruta (UCS):
+Elmira -> Williamsport -> Harrisburg -> Allentown -> Newark -> New York City
+Costo total: 460 km
+Nodos generados (sin contar el nodo inicial): 18
